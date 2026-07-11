@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Arpit Patel GitHub Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Arpit Patel</h1>
 <h3 align="center">Aspiring Data Analyst | Data Science & AI Enthusiast | Python Developer</h3>
 
